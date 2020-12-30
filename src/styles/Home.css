@@ -1,0 +1,60 @@
+.home-page {
+    background-color: #232232;
+    border-radius: 24px;
+    margin: 5vh auto;
+    padding: 24px;
+    max-width: 960px;
+}
+
+.home-title {
+    text-align: center;
+    color: #fefefe;
+}
+
+.home-button-list {
+    display: flex;
+}
+
+.home-button-list button {
+    background-color: #246bfd;
+    border: none;
+    border-radius: 16px;
+    height: 6vh;
+    width: 50%;
+    color: #fefefe;
+    margin: 7vh 10%;
+    font-size: 1.2em;
+}
+
+.home-button-list button:hover {
+    cursor: pointer;
+}
+
+.home-desc-list {
+    display: flex;
+}
+
+.home-desc-api {
+    width: 50%;
+    text-align: center;
+}
+
+.home-desc-api-title {
+    color: #636179;
+    font-size: larger;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.home-desc-api-text {
+    color: #636179;
+    text-align: left;
+    margin: auto 8px;
+    font-size: 1.2em;
+}
+
+.home-foot {
+    color: #636179;
+    font-size: 1.2em;
+    margin-top: 32px;
+}

@@ -1,0 +1,64 @@
+.teleport-page {
+    background-color: #232232;
+    border-radius: 24px;
+    margin: 5vh auto;
+    padding: 24px;
+    max-width: 960px;
+}
+
+.teleport-title {
+    color: #fefefe;
+    text-align: center;
+}
+
+.search-input {
+    border: none;
+    width: 80%;
+    margin: auto 10%;
+    padding: 8px;
+    border-radius: 24px;
+    font-size: 1.2em;
+}
+
+.search-img {
+    display: block;
+    margin: auto;
+    width: 60%;
+    height: auto;
+}
+
+.city-title {
+    text-align: center;
+    color: #fefefe;
+}
+
+.city-name {
+    color: #636179;
+    font-size: 1.3em;
+}
+
+.city-desc {
+    color: #636179;
+}
+
+.data-summary {
+    color: #636179;
+}
+
+.data-total-score {
+    color: #636179;
+}
+
+.data-scores-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.data-score {
+    color: #636179;
+    width: 220px;
+}
+
+.data-score p {
+    margin: 0;
+}

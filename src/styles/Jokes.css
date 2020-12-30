@@ -1,0 +1,41 @@
+.joke-page {
+    background-color: #232232;
+    border-radius: 24px;
+    margin: 5vh auto;
+    padding: 24px;
+    max-width: 960px;
+}
+
+.joke-title {
+    text-align: center;
+    color: #fefefe;
+}
+
+.joke-desc {
+    color: #636179;
+    text-align: left;
+    margin: auto 8px;
+    font-size: 1.2em;
+}
+
+.joke-button {
+    background-color: #246bfd;
+    border: none;
+    border-radius: 16px;
+    color: #fefefe;
+    margin: 3vh auto;
+    padding: 2% 4%;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+}
+
+.joke-button:hover {
+    cursor: pointer;
+}
+
+.joke-content {
+    color: #636179;
+    font-size: 1.2em;
+    margin: 8px;
+}
