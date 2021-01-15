@@ -1,0 +1,29 @@
+.error-code {
+    color: #fefefe;
+    text-align: center;
+    font-size: min(50vh, 50vw);
+    margin: 0;
+    padding: 0;
+}
+
+.error-text {
+    color: #fefefe;
+    text-align: end;
+    font-size: 2em;
+    margin-right: 25vw;
+}
+
+.error-button {
+    background-color: #246bfd;
+    border: none;
+    border-radius: 16px;
+    color: #fefefe;
+    font-size: 1.2em;
+    padding: 2vh;
+    position: absolute;
+    left: 50vw;
+}
+
+.error-button:hover {
+    cursor: pointer;
+}
