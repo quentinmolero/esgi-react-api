@@ -6,8 +6,8 @@ const Home = () => {
         <div className="home-page">
             <h1 className="home-title">React by Quentin MOLERO</h1>
             <div className="home-button-list">
-                <button onClick={() => window.location.pathname += '/teleport'}>Teleport</button>
-                <button onClick={() => window.location.pathname += '/jokes'}>Jokes</button>
+                <button onClick={() => window.location.pathname = '/teleport'}>Teleport</button>
+                <button onClick={() => window.location.pathname = '/jokes'}>Jokes</button>
             </div>
             <div className="home-desc-list">
                 <div className="home-desc-api">
